@@ -105,6 +105,7 @@ Proposal: Vibe coding for vehicle loan application chatbot agentic workflow.
 
 
 Datasets:
+
 	1) Loan/credit risk datasets (for approval recommendations)
 	
 		https://www.kaggle.com/datasets/mamtadhaker/lt-vehicle-loan-default-prediction
